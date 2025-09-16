@@ -1,12 +1,18 @@
-# Game Dev Tools 
+Game Dev Tools 
 
 I will be talking about some game development tools that are both popular and unpopular. 
 
 1. Gdevelop 
-  -This a no-code game engine that is very popular among hobbyists and small development teams
-  - 
+  -This a no-code game engine that is very popular among hobbyists and small development teams.
+  - It is completely free of charge. 
+  - Works alongside Piskel, which can be used in order to create and animate sprites for whatever game someone is trying to make. 
+  - Pros: User friendly, plenty of resources to learn how to use it, small download size so it is able to be downloaded on laptops
+  - Cons: Has difficulty handing projects of larger sizes, limited 3D capabilities, mainly for beginners instead of more experienced developers. 
 2. Piskel
-  - 
+  - This is a free online editor specializing in pixel art.
+  - Piskel works alongside Gdevelop as a way to design sprites within the game engine. 
+  - Pros: Free, online so it is accessible to pretty much anyone, supports the ability to work offline.
+  - Cons: 
 3. 
 4.
 5. 
