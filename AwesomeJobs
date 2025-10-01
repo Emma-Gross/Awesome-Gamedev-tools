@@ -2,16 +2,61 @@ Game Dev Jobs
 
 1. Career Pathways
   - Game design
+Game designers typically create the actual concept for a game. They come up with things like the story, 
+the characters,the rules, and things similar. Game designers are the ones who do a little bit of everything but 
+without them the game industry would be in shambles. They do essential testing and post-release things to make sure
+that the games run and are within standard.
   - QA Game Tester
+Game testers do exactly what they're called, they test games. When they do this they test on multiple different
+platforms to make sure it works on everything the game is being released on. They look for bugs, glitches, and other
+things that could affect the user experience. They work closely with developers in order to get these issues
+fixed before the game gets released to the public. The biggest responsibility they have is to make sure they're
+testing very throughly.
   - Game artist
+Game artists create the visual aspects of the game. Their main responsibilities are to conceptualize things for the
+game, create/model them, and work closely with the designers to make any changes needed. Game artists also work 
+with the scenes, making sure the lighting works and doesn't look funky. 
   - Game audio 
+Game audio is the sound within the game. They create the sounds that we know in some of our favorite games through
+voice acting, sound effects, and music. Sometimes they have to record this stuff but some of it is free assests
+on the internet if the company is small. They work on making sure the sounds work for the story/characters
+and that the sound is implemented and that it works. 
   - Level designers
+Level designers design the challenges and the surroundings the player will go through and see. They make it so the
+player has some sort of push in the right direction. This can be through things like entry and exit points, or just
+in the level design itself like a pathway. They work closely with the other members of the team to make sure
+that everything they do correlates with the way the story needs to go. 
   - Narrative Designers
+These designers create an actual story to the game. They help with integrating more storytelling aspects to a game,
+this can include something like a quest, which can push the player into progressing further into the story. They 
+build the world the player will explore and progress in. They help make sure the game is consistent, helping 
+ensure that people will actually enjoy playing the game instead of being confused about the storyline. 
   - Indie developers 
+Indie developers do it all, usually it is a team of about 1-5 people working on a smaller project. If there is one
+person, then it is likely they do most, if not all, of the jobs listed above as well as the programming side of 
+things. If there is more than one person, it is possible the jobs are split up between the group, there is most
+likely someone who specializes in programming while another is better at narrative. Indie developers
+do not get as much credit as some of the bigger companies because they usually do not create as big of games, 
+except Silksong.
+
+
+
 
 2. Game programming 
   - Physics Programmer 
+The physics programmer takes the objects and makes them simulate real life. This can be seen in things like 
+bumping into a barrel and it falling over instead of flying off into space. This is because of the physics 
+programmer. They also help to debug and optimize so the game can run better and doesnt get laggy when something 
+is knocked over. 
   - Graphics Programmer
+They program the visual aspects of the game. They take care of things like the lighting and rendering to make sure
+the game meets quality standards. These standards also help to make sure that the game can perform well on various
+platforms. They work closely with a lot of the artists on the team to make sure that things are looking the
+way they want and the way they are supposed to. 
   - AI Programmer
-  - 
-  - 
+The AI programmer is the person who makes sure that NPCs function more like real people. They implement things like 
+pathfinding so that the NPCs can walk around and go places instead of standing stationary throughout the players 
+playtime. 
+  - Gameplay Programmer
+  - Animation Programmer
+  - Engine Programmer
