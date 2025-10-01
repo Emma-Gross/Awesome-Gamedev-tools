@@ -56,7 +56,20 @@ way they want and the way they are supposed to.
   - AI Programmer
 The AI programmer is the person who makes sure that NPCs function more like real people. They implement things like 
 pathfinding so that the NPCs can walk around and go places instead of standing stationary throughout the players 
-playtime. 
+playtime. This also makes the NPCs react to their surroundings, an example of this can be in GTA VI when you run 
+towards someone and they fling their hands up and scream. 
   - Gameplay Programmer
+They create the core code that will implement the most important features of the game. This is what the players
+play the game for, the things like dialogue and object manipulation or even just running around and exploring. They
+are extremely important to the debugging process since they contribute to it a lot. They work close with the 
+designers as well as the other programmers to make sure that things are working like they should be. 
   - Animation Programmer
+Develop the systems and code that make the characters move within the world. They work really closely with the 
+animators to make sure that the movements don't look funny, i.e. an arm walking on the ground instead of the leg.
+They usually try to run efficient code that won't cause optimization problems, they try to make sure that the 
+game performance is top tier before moving on. 
   - Engine Programmer
+These programmers are the ones who develop a lot of the technology that goes into game development 
+They are usually the ones who maintaina and update the code once the game is actually published, they also tend 
+to update and implement the features within the engine that helps run the game. They also help with things like 
+physics and rendering, both very important processes within the development of a game. 
